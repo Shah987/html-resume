@@ -1,0 +1,137 @@
+body{
+	
+	margin:0px;
+	padding:0px;
+	font-family: arial;
+}
+h2{
+
+	font-size:30px;
+}
+h3{
+	font-size: 23px;
+    color: #e36c0a;
+    margin-top: 23px;
+    margin-bottom: -13px;
+}
+p{
+
+	font-size: 16px;
+	line-height: 20px;
+	width: 100%;
+}
+a:active{
+	color:blue;
+
+}
+.wrapper{
+
+	max-width:796;
+	width:100%;
+	margin:0 auto;
+	/*box-shadow: 0px 8px 28px 7px rgba(0, 0, 0, 0.15);*/
+}
+
+header{
+	background:#f2f2f2;
+	width:100%;
+	height:auto;
+	float:left;
+}
+.wrapper .top-border{
+	width:100%;
+	height:20px;
+	background: #e36c0a ;
+}
+header .left-container{
+	background:url(image.png) no-repeat scroll ;
+	float:left;
+	width:120px;
+	height:132px;
+	margin-left: 62px;
+    margin-top: 37px;
+}
+header  .right-container{
+	width: 68%;
+    float: left;
+    padding: 33px;
+}
+.detial{
+	margin-top: -13px;
+}
+header p.designation {
+    font-size: 16px;
+    width: 74%;
+    line-height: 24px;
+}
+header p.info{
+	font-size: 14px;
+}
+header p.info span{
+   color:#e36c0a;
+}
+section .heading h2{
+	font-size:25px;
+	float: right;
+}
+section .paragaraph p{
+	float:left;
+	padding-top: 10px;
+}
+}
+section.info{
+	width:100%;
+	float:left;
+}
+section .heading{
+	width: 29%;
+    float: left;
+}
+section .paragaraph{
+	width: 62%;
+    float: left;
+    padding: 0px 33px;
+    position: relative;
+}
+.devider-full{
+	width:100%;
+	height:1px;
+	background:#000;
+	float:left;
+}
+p.print-years {
+    width: 94px;
+    margin: 0px;
+    padding: 7px 9px;
+    position: absolute;
+    top: 14px;
+    right: 0;
+    background: #e36c0a;
+    color: #fff;
+    font-size: 14px;
+}
+p.graphics-years {
+    width: 94px;
+    margin: 0px;
+    padding: 7px 9px;
+    position: absolute;
+    top: 26px;
+    right: -32px;
+    background: #e36c0a;
+    color: #fff;
+    font-size: 14px;
+}
+.graphics{
+	float: left;
+    padding-top: 12px;
+    position: relative;
+}
+.devider-half{
+	width:100%;
+	height:1px;
+	background:#000;
+	float:left;
+}
+.float {
+    float: left;
+}
